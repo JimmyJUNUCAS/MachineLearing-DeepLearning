@@ -27,6 +27,11 @@ C++：
 1 C++ Primer 4th
 2 C++ Primer 5th
 3 学习opencv
+4 Google C++ Style Guide
+5 C Primer Plus 6th
+6 Qt Creator
+7 QT 5 
+
 JAVA:
 1 Head First JAVA
 2 Java 编程思想 4th
