@@ -59,6 +59,8 @@ C++：
 
 7 QT 5 
 
+8 LeetCode C++
+
 JAVA:
 
 1 Head First JAVA
