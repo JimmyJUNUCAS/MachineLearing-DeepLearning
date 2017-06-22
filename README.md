@@ -25,7 +25,7 @@ The tutorial of Machine Learning and Deep Learning. 记录机器学习/深度学
 
 3 模式分类
 
-4 统计学习方法（李航）
+4 [统计学习方法（李航）](http://pan.baidu.com/s/1kUW9dqf)
 
 5 机器学习（周志华）
 
