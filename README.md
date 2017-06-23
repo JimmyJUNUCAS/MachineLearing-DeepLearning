@@ -16,75 +16,52 @@ The tutorial of Machine Learning and Deep Learning. 记录机器学习/深度学
 
 ### 机器学习经典：
 
-1 PRML(PATTERN RECOGNITION AND MACHINE LEARNING)
+1 PRML(PATTERN RECOGNITION AND MACHINE LEARNING) <br>
+2 ESL(The Elements of Statistical Learning) <br>
+3 模式分类 <br>
+4 [统计学习方法（李航）](http://pan.baidu.com/s/1kUW9dqf) <br>
+5 机器学习（周志华）<br>
+6 Machine Learning A Probabilistic Perspective(MIT) <br>
+7 Foundations of Machine Learning <br>
+8 Learning Spark <br>
+9 Adavanced Analytics with Spark <br>
+10 Data Algorithms <br>
 
-2 ESL(The Elements of Statistical Learning)
+### 深度学习内容：
 
-3 模式分类
+1 [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) <br>
 
-4 [统计学习方法（李航）](http://pan.baidu.com/s/1kUW9dqf)
+### 编程语言：
 
-5 机器学习（周志华）
+#### C++： 
 
-6 Machine Learning A Probabilistic Perspective(MIT)
+1 C++ Primer 4th <br>
+2 C++ Primer 5th <br>
+3 学习opencv <br>
+4 Google C++ Style Guide <br>
+5 C Primer Plus 6th <br>
+6 Qt Creator <br>
+7 QT 5 <br>
+8 LeetCode C++ <br>
 
-7 Foundations of Machine Learning
+#### JAVA:
 
-8 Learning Spark
+1 Head First JAVA <br>
+2 Java 编程思想 4th <br>
+3 Java 程序员面试宝典 2nd <br>
 
-9 Adavanced Analytics with Spark
+### LINUX
+1 鸟哥的LINUX私房菜 4th <br>
+2 Unix 编程艺术 <br>
+3 Linux 汇编编程指南 <br>
 
-10 Data Algorithms
-
-深度学习内容：
-
-编程语言：
-
-C++： 
-
-1 C++ Primer 4th
-
-2 C++ Primer 5th
-
-3 学习opencv
-
-4 Google C++ Style Guide
-
-5 C Primer Plus 6th
-
-6 Qt Creator
-
-7 QT 5 
-
-8 LeetCode C++
-
-JAVA:
-
-1 Head First JAVA
-
-2 Java 编程思想 4th
-
-3 Java 程序员面试宝典 2nd
-
-LINUX
-1 鸟哥的LINUX私房菜 4th
-
-2 Unix 编程艺术
-
-3 Linux 汇编编程指南
-
-计算机网络
-
+### 计算机网络
 1 计算机网络
 
-算法：
+### 算法：
 
-1 Data Structures and Algorithm Analysis in C++ (4th)
-
-2 Data Structures and Algorithm Analysis in C++ (3rd)
-
-3 Data Structures and Algorithm Analysis in Java (2nd)
-
-4 剑指offer
-
-5 算法竞赛入门
+1 Data Structures and Algorithm Analysis in C++ (4th) <br>
+2 Data Structures and Algorithm Analysis in C++ (3rd) <br>
+3 Data Structures and Algorithm Analysis in Java (2nd) <br>
+4 剑指offer <br>
+5 算法竞赛入门 <br>
