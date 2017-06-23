@@ -12,8 +12,9 @@ The tutorial of Machine Learning and Deep Learning. 记录机器学习/深度学
 6 logistic regression <br>
 
 书单：
+--
 
-机器学习经典：
+###机器学习经典：
 
 1 PRML(PATTERN RECOGNITION AND MACHINE LEARNING)
 
