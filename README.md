@@ -30,6 +30,7 @@ The tutorial of Machine Learning and Deep Learning. 记录机器学习/深度学
 ### 深度学习内容：
 
 1 [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) <br>
+2 Keras
 
 ### 编程语言：
 
